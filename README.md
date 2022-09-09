@@ -13,4 +13,4 @@ Search Engine Optimization (SEO) allows you to increase your visibility and find
  N/A
 ## License
 
-Refer to the repository
+Please refer to LICENSE in the repository
